@@ -1,0 +1,9 @@
+let firstName="Tester"
+let companyName="ABC"
+let mobileNumber=123456
+let isAutomation=true
+let hasPlaywright
+console.log(typeof(firstName), firstName)
+console.log(typeof(companyName), companyName)
+console.log(typeof(mobileNumber), mobileNumber)
+console.log(typeof(hasPlaywright), hasPlaywright)
